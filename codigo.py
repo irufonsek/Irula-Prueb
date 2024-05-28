@@ -1,6 +1,6 @@
-nombre = "Soy Irula"
+nombre = "Irula Fonseca Rios"
 apellido = "Fonseca"
 
 Saludo = "Hola" + nombre + " " + apellido + "como estas"
 
-print(Saludo) 
+print(saludo)
